@@ -56,3 +56,6 @@ button:hover {
 button[type="reset"]:hover {
     opacity: 0.8;
 }
+div{
+    text-align: center;
+}
