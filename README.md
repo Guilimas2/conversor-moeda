@@ -14,6 +14,7 @@ Este é um projeto de Conversor de Moedas desenvolvido em HTML, CSS e JavaScript
 ```style.css: Arquivo de estilo personalizado para o projeto.```<br>
 ``main.js: Arquivo de script JavaScript que contém a lógica de conversão.``
 <h1 align="center"> 💡 Funcionalidade de Conversão</h1>
-No arquivo main.js, é implementada uma função que obtém o valor inserido, a moeda de origem e a moeda de destino, realiza a conversão com base em taxas pré-definidas ou dinâmicas (caso o projeto seja conectado a uma API externa) e exibe o resultado na página.
+No arquivo main.js, é implementada uma função que obtém o valor inserido, a moeda de origem e a moeda de destino, realiza a conversão com base em taxas pré-definidas ou dinâmicas (caso o projeto seja conectado a uma API externa) e exibe o resultado na página.<br>
+
 # colaborador e autor
  [<br><sub>Maria Yanagui<br> </sub>](https://github.com/mariayanagui) |  [<img loading="lazy" src="yanagui.jpg" width=115><br><sub>Guilherme Serfim<br></sub>](https://github.com/Guilimas2) |  [<img loading="lazy" src="guieu.jpg" width=115><br><sub></sub>](h) 
